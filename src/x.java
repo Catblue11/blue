@@ -10,7 +10,7 @@
  */
 public class x { 
     public static void main (String [] blue){
-     System.out.println("Hola Mundo");
+     System.out.println("Hola me llamo Ricardo, soy salsero de nacimiento.");
       }
 
 }
